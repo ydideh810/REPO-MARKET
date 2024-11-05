@@ -14,7 +14,7 @@ function App() {
             CODE_MARKET
           </h1>
           <p className="text-lg text-red-500 font-mono">
-            MARKETPLACE_FOR_REPOSITORIES::VERSION_1.0
+            MARKETPLACE_FOR_REPOSITORIES:: UGTBJBMLM6 FOR 50% OFF (Until Nov 11th)
           </p>
         </div>
 
